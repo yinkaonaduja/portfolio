@@ -1,6 +1,7 @@
 body{
 	margin: 0px;
 	padding: 0px;
+	background: black;
 }
 
 .navs{
@@ -104,13 +105,7 @@ body{
 	top: 1100px;	
 	 width: 100%;
   height: auto;
-  transform-style: preserve-3d;
-  transition: all 1s ease-in-out;
 }
-.img1:hover {
-  transform: rotateX(20deg);
-}
-
 .giditext p{
 	position: absolute;
 	left: 800px;
@@ -155,11 +150,6 @@ body{
 	position: absolute;
 	top: 1740px;
 	left: -70px;
-	transform-style: preserve-3d;
-  transition: all 1s ease-in-out;
-}
-.research:hover {
-  transform: rotateY(50deg);
 }
 .giditext6 p{
 	position: absolute;
@@ -173,12 +163,7 @@ body{
 .img2{
 	position: absolute;
 	left: 900px;
-	top: 1760px;
-	transform-style: preserve-3d;
-  transition: all 1s ease-in-out;	
-}
-.img2:hover {
-  transform: rotateY(20deg);
+	top: 1760px;	
 }
 .info{
 	position: absolute;
@@ -205,8 +190,7 @@ body{
 .fraimg{
 	position: absolute;
 	top: 3300px;
-	left: 480px;
-
+	left: 480px;		
 }
 
 .nametwo{
@@ -289,44 +273,23 @@ body{
 .more1{
 	position: absolute;
 	left: 120px;
-	transform-style: preserve-3d;
-  transition: all 1s ease-in-out;
 	
 }
-.more1:hover {
-  transform: rotateY(50deg);
-}
-
-
 .more2{
 	position: absolute;
 	left: 724px;
-	transform-style: preserve-3d;
-  transition: all 1s ease-in-out;
-}
-.more2:hover {
-  transform: rotateY(50deg);
+	
 }
 .more3{
 	position: absolute;
 	left: 120px;
 	top: 400px;
-	transform-style: preserve-3d;
-  transition: all 1s ease-in-out;
 	
-}
-.more3:hover {
-  transform: rotateY(50deg);
 }
 .more4{
 	position: absolute;
 	left: 724px;
 	top: 400px;
-	transform-style: preserve-3d;
-  transition: all 1s ease-in-out;
-}
-.more4:hover {
-  transform: rotateY(50deg);
 }
 .more4 p{
 	position: absolute;
